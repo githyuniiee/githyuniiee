@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=bdbdbd&height=150&section=header&text=githyuniee&fontColor=ffffff)
+</div>
 
 <!--
 **githyuniiee/githyuniiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
